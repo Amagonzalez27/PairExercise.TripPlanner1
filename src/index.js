@@ -1,4 +1,3 @@
-console.log('index.js is up and running');
+const { createMarker } = require('./marker');
 
-//this comment is new
-// hello laura
+createMarker('activity', [-74.009, 40.705]);
