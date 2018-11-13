@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("console.log(\"index.js is up and running\");\n\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("console.log(\"index.js is up and running\");\n\n//this comment is new\n\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ })
 
